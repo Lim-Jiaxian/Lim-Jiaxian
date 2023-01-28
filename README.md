@@ -1,6 +1,5 @@
 ### Hello! I'm Jiaxian, currently a student...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-Jiaxian&theme=graywhite)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-Jiaxian&theme=graywhite)](https://github.com/Lim-Jiaxian/github-readme-stats)
 
 <!--
