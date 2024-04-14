@@ -1,4 +1,4 @@
-### Hello! I'm Jia Xian, a year 2 student from Ngee Ann Polytechnic. 
+### Hello! I'm Jia Xian, a year 3 student from Ngee Ann Polytechnic. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-Jiaxian&theme=graywhite)](https://github.com/Lim-Jiaxian/github-readme-stats)
 
 <!--
